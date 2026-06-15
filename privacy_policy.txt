@@ -1,0 +1,132 @@
+PRIVACY POLICY
+MediScan AI
+Last Updated: March 14, 2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. INTRODUCTION
+
+MediScan AI ("we", "our", or "us") is committed to protecting your privacy.
+This Privacy Policy explains how our mobile application MediScan AI
+(the "App") collects, uses, and safeguards your information when you use
+our service.
+
+By using MediScan AI, you agree to the practices described in this policy.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2. INFORMATION WE COLLECT
+
+a) Medical Report Files
+   - Images (JPG, PNG) of medical reports you upload for analysis.
+   - PDF files of medical reports you upload for analysis.
+   - These files are sent directly to OpenAI's API for AI-powered analysis.
+   - We do NOT store these files on any of our servers.
+
+b) Analysis Results
+   - The AI-generated analysis of your medical reports is stored
+     locally on your device only.
+   - No analysis data is transmitted to or stored on our servers.
+
+c) OpenAI API Key
+   - If you provide your own OpenAI API key in the Settings screen,
+     it is stored locally on your device using encrypted storage.
+   - Your API key is never transmitted to or stored on our servers.
+
+d) Device Information
+   - We do not collect any device identifiers, location data,
+     or personal information.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3. HOW WE USE YOUR INFORMATION
+
+The medical report files you upload are used solely for the purpose of:
+   - Sending to OpenAI's API (https://openai.com) to generate an
+     AI-powered analysis of your report.
+   - Displaying the analysis results to you within the App.
+
+We do not use your data for advertising, marketing, or any other purpose.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4. THIRD-PARTY SERVICES — OPENAI
+
+MediScan AI uses OpenAI's API to analyze your medical reports.
+When you submit a report for analysis:
+   - The content of your report (image or text) is sent to OpenAI.
+   - OpenAI processes this data according to their own Privacy Policy,
+     available at: https://openai.com/privacy
+
+We strongly recommend:
+   - Removing or blurring personal identifying information (name,
+     ID number, address) from reports before uploading.
+   - Reviewing OpenAI's Privacy Policy and Terms of Service.
+
+We are not responsible for how OpenAI handles data transmitted to
+their API.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5. DATA STORAGE AND SECURITY
+
+   - All analysis history is stored locally on your device only.
+   - No data is stored on our servers or in the cloud.
+   - You can delete all stored analysis history at any time from
+     the History tab within the App.
+   - Your OpenAI API key is stored using your device's secure
+     local storage and is never shared with anyone.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6. MEDICAL DISCLAIMER
+
+MediScan AI is NOT a medical device and does NOT provide medical advice,
+diagnosis, or treatment.
+
+   - The AI-generated analysis is for informational purposes only.
+   - Always consult a qualified healthcare professional for medical
+     decisions.
+   - Do not rely solely on this App for any health-related decisions.
+   - The App uses phrases like "may indicate" and "suggests" intentionally
+     to reflect the non-diagnostic nature of the analysis.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7. CHILDREN'S PRIVACY
+
+MediScan AI is not intended for use by children under the age of 13.
+We do not knowingly collect any personal information from children.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+8. YOUR RIGHTS
+
+You have full control over your data:
+   - Delete your analysis history anytime from the History tab.
+   - Remove your API key anytime from the Settings screen.
+   - Uninstalling the App removes all locally stored data from your device.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+9. CHANGES TO THIS POLICY
+
+We may update this Privacy Policy from time to time. Any changes will be
+reflected by updating the "Last Updated" date at the top of this document.
+Continued use of the App after changes constitutes acceptance of the
+updated policy.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+10. CONTACT US
+
+If you have any questions or concerns about this Privacy Policy,
+please contact us at:
+
+   Email: mediscanai.app@gmail.com
+   App: MediScan AI
+   Package: com.codifycodify.mediscan
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+© 2026 MediScan AI. All rights reserved.
